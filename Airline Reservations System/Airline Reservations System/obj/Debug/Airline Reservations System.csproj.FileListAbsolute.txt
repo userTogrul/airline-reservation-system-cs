@@ -1,0 +1,21 @@
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\bin\Debug\Airline Reservations System.exe.config
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\bin\Debug\Airline Reservations System.exe
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\bin\Debug\Airline Reservations System.pdb
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline Reservations System.csprojAssemblyReference.cache
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.Form1.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.Properties.Resources.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline Reservations System.csproj.GenerateResource.cache
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline Reservations System.csproj.CoreCompileInputs.cache
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline Reservations System.exe
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline Reservations System.pdb
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.buyTicket.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.userBookFlight.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.userMainMenu.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline Reservations System.csproj.CopyComplete
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\bin\Debug\Oracle.DataAccess.dll
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.Registration.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.AdminManageAircrafts.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.AdminPanel.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.viewTickets.resources
+C:\Users\tabba\Desktop\2nd 4th semester\Ziyarat teacher modern prog lang\Course Work\Airline Reservations System\Airline Reservations System\obj\Debug\Airline_Reservations_System.AdminLogin.resources
